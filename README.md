@@ -28,6 +28,7 @@ I am always open to discussing technical architecture, software logic, and the p
     <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
   </a>
 </p>
+
 ---
 *"Bridging the gap between logic and clarity."*.
 
