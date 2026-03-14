@@ -9,7 +9,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 
 | Badge | Certification | Status | Issued By |
 | :--- | :--- | :--- | :--- |
-| <img src="assets/github-foundations.svg" width="35" alt="GitHub Foundations"> | **[GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/encoded8bits/6CDB9F1D6194EFBF?sharingId=7C538940B34F5573)** | Certified | Microsoft Learn |
+| <img src="assets/github-foundations.svg" width="35" align="center" alt="GitHub Foundations"> | **[GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/encoded8bits/6CDB9F1D6194EFBF?sharingId=7C538940B34F5573)** | Certified | Microsoft Learn |
 
 > **Note:** Integration between GitHub and Microsoft Learn profiles is currently undergoing synchronization; certification is officially verifiable via [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/encoded8bits/transcript/7346rspg4l91qq8).
 
