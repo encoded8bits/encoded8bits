@@ -24,7 +24,7 @@ I am always open to discussing technical architecture, software logic, and the p
   <a href="https://linkedin.com/in/encoded8bits" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/encoded8bits/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/encoded8bits/transcript/7346rspg4l91qq8" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
   </a>
 </p>
