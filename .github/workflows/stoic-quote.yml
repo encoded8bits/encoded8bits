@@ -1,0 +1,35 @@
+name: Daily Stoic Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Medianoche
+  workflow_dispatch: # Botón manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Fetch Stoic Quote
+        id: quote
+        run: |
+          # Usamos una API pública de frases estoicas
+          QUOTE_DATA=$(curl -s https://stoic-quotes.com/api/quote)
+          TEXT=$(echo $QUOTE_DATA | jq -r '.text')
+          AUTHOR=$(echo $QUOTE_DATA | jq -r '.author')
+          echo "full_quote=\"$TEXT\" — $AUTHOR" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "//,//c\\n*\"${{ env.full_quote }}\"*\n" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update daily stoic quote" || exit 0
+          git push
