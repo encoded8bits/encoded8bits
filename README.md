@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi, I'm Christian 👋
 
 I focus on the intersection of complex systems and clear, effective communication. My career has been built on navigating diverse technical landscapes, prioritizing the architecture of information and the clarity of the end product.
@@ -9,16 +8,24 @@ I’m currently focused on continuous professional growth, technical mastery, an
 
 | Badge | Certification | Status | Issued By |
 | :---: | :--- | :--- | :---: |
-| <img src="assets/github-foundations.svg" width="35" align="center" alt="GitHub Foundations"> | **[GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/encoded8bits/6CDB9F1D6194EFBF?sharingId=7C538940B34F5573)** | Certified | Microsoft Learn |
+| <img src="assets/github-foundations.svg" width="35" alt="GitHub Foundations"> | **[GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/encoded8bits/6CDB9F1D6194EFBF?sharingId=7C538940B34F5573)** | Certified | Microsoft Learn |
+| <img src="https://img.shields.io/badge/Anthropic-Completed-755139?style=flat&logo=anthropic&logoColor=white" height="25"> | **[Claude Code in Action](https://verify.skilljar.com/c/y86gqycqoqb6)** | Completed | Anthropic Academy |
 
 > **Note:** Integration between GitHub and Microsoft Learn profiles is currently undergoing synchronization; certification is officially verifiable via [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/encoded8bits/transcript/7346rspg4l91qq8).
 
 ---
 
+### 🤖 AI-First Development Stack
+*Bridging the gap between creative ideation and production-ready code.*
+
+* **Tools:** [Cursor](https://cursor.sh/) & [Anthropic Claude](https://anthropic.com/).
+* **Workflow:** Spec-driven development utilizing [MCP](https://modelcontextprotocol.io/) for agentic context.
+* **Philosophy:** "Vibe coding" with a lead-engineer mindset—ensuring architectural integrity through rigorous human-in-the-loop code reviews.
+
+---
+
 ### 💬 Let's connect
 I am always open to discussing technical architecture, software logic, and the practical application of emerging technologies.
-
-<!-- [LinkedIn](https://linkedin.com/in/encoded8bits) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/encoded8bits/) -->
 
 <p align="center">
   <a href="https://linkedin.com/in/encoded8bits" target="_blank">
@@ -30,12 +37,14 @@ I am always open to discussing technical architecture, software logic, and the p
 </p>
 
 ---
-*"Bridging the gap between logic and clarity."*.
+*"Bridging the gap between logic and clarity."*
 
----
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=encoded8bits.encoded8bits" alt="Visitors">
+</p>
 
-<!--
-**encoded8bits/encoded8bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **encoded8bits/encoded8bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -47,4 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
