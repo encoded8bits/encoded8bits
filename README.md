@@ -34,6 +34,9 @@ I am always open to discussing technical architecture, software logic, and the p
   <a href="https://learn.microsoft.com/en-us/users/encoded8bits/transcript/7346rspg4l91qq8" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
   </a>
+  <a href="https://www.credly.com/users/encoded8bits" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
 </p>
 
 ---
