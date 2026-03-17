@@ -12,8 +12,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Update Stoic Quote
-        uses: benatsh/stoic-quote-action@v1.0.0
-        with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch and inject Stoic quote
+        run: |
+          RESPONSE=$(curl -s https://stoic-quotes.com/api/quote)
+          TEXT=$(echo "$RESPONSE" | jq -r '.text')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
+          QUOTE_BLOCK="> \"$TEXT\" — $AUTHOR"
+          sed -i '/<!-- STOIC_QUOTE_START -->/,/<!-- STOIC_QUOTE_END -->/{/<!-- STOIC_QUOTE_START -->/!{/<!-- STOIC_QUOTE_END -->/!d}}' README.md
+          sed -i "s|<!-- STOIC_QUOTE_START -->|<!-- STOIC_QUOTE_START -->\n$QUOTE_BLOCK|" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update daily stoic quote"
+          git push
