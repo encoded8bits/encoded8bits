@@ -36,6 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
+> "Wealth is the slave of a wise man. The master of a fool." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
