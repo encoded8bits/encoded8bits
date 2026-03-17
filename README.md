@@ -10,6 +10,8 @@ I’m currently focused on continuous professional growth, technical mastery, an
 | :---: | :--- | :--- | :---: |
 | <img src="assets/github-foundations.svg" width="35" alt="GitHub Foundations"> | **[GitHub Foundations](https://learn.microsoft.com/api/credentials/share/en-us/encoded8bits/6CDB9F1D6194EFBF?sharingId=7C538940B34F5573)** | Certified | Microsoft Learn |
 | <img src="https://img.shields.io/badge/Anthropic-Completed-755139?style=flat&logo=anthropic&logoColor=white" height="25"> | **[Claude Code in Action](https://verify.skilljar.com/c/y86gqycqoqb6)** | Completed | Anthropic Academy |
+| <img src="https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat&logo=google&logoColor=white" height="25"> | **[Google AI Essentials](https://www.credly.com/badges/0a8f3277-3162-4ef8-977d-1aa542f1fce0/public_url)** | Certified | Coursera / Google |
+| <img src="https://img.shields.io/badge/Google-Prompting-4285F4?style=flat&logo=google&logoColor=white" height="25"> | **[Google Prompting Essentials](https://www.credly.com/badges/b0d2eb32-b8ab-4fd7-99c7-99984c85189f/public_url)** | Certified | Coursera / Google |
 
 > **Note:** Integration between GitHub and Microsoft Learn profiles is currently undergoing synchronization; certification is officially verifiable via [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/encoded8bits/transcript/7346rspg4l91qq8).
 
