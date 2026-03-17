@@ -17,17 +17,27 @@ I’m currently focused on continuous professional growth, technical mastery, an
 
 ---
 
-### 🤖 AI-First Development Stack
-*Bridging the gap between creative ideation and production-ready code.*
+### 🛠️ Technical Strategy
+*Bridging the gap between logic, architecture, and AI-driven delivery.*
 
-* **Tools:** [Cursor](https://cursor.sh/) & [Anthropic Claude](https://anthropic.com/).
-* **Workflow:** Spec-driven development utilizing [MCP](https://modelcontextprotocol.io/) for agentic context.
-* **Philosophy:** "Vibe coding" with a lead-engineer mindset—ensuring architectural integrity through rigorous human-in-the-loop code reviews.
+* **Architecture:** Scalable systems using **React 19**, **Next.js 16**, and **TypeScript**.
+* **AI Integration:** Engineering agentic workflows and "vibe coding" patterns with **Anthropic** and **Cursor**.
+* **Design & DX:** High-performance interfaces with **Tailwind CSS** and **Radix UI**. 
+* **Next on the Radar:** Exploring **Bun** for ultra-fast runtime and package management. 🚀
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white) |
+| **Ecosystem** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 ---
 
+### 🏛️ Stoic Wisdom
+*"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
+---
+
 ### 💬 Let's connect
-I am always open to discussing technical architecture, software logic, and the practical application of emerging technologies.
 
 <p align="center">
   <a href="https://linkedin.com/in/encoded8bits" target="_blank">
@@ -47,18 +57,3 @@ I am always open to discussing technical architecture, software logic, and the p
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=encoded8bits.encoded8bits" alt="Visitors">
 </p>
-
-
-<!-- **encoded8bits/encoded8bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
