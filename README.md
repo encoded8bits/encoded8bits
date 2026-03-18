@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If you look on wealth as a thing to be valued your imaginary poverty will cause you torment." — Seneca
+> "No man was ever wise by chance." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
