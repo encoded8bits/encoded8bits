@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Despise everything that useless toil creates as an ornament and an object of beauty. And reflect that nothing except the soul is worthy of wonder; for to the soul, if it be great, naught is great." — Seneca
+> "You must linger among a limited number of master thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind. Everywhere means nowhere." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
