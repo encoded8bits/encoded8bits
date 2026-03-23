@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Crows pick out the eyes of the dead, when the dead have no longer need of them; but flatterers mar the soul of the living, and her eyes they blind." — Epictetus
+> "Show me a man who though sick is happy, who though in danger is happy, who though in prison is happy, and I'll show you a Stoic." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
