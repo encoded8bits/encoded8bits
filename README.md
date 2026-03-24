@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Show me a man who though sick is happy, who though in danger is happy, who though in prison is happy, and I'll show you a Stoic." — Epictetus
+> "Either God wants to abolish evil, and cannot; or he can, but does not want to." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
