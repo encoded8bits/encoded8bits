@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Poor woman, do you want to know where hatred ends? Look to love." — Seneca
+> "One cannot sincerely weep over getting what one wanted." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
