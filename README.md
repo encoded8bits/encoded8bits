@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "For outward show is a wonderful perverter of the reason." — Marcus Aurelius
+> "That all is as thinking makes it so – and you control your thinking. So remove your judgements whenever you wish and then there is calm - as the sailor rounding the cape finds smooth water and the welcome of a waveless bay." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
