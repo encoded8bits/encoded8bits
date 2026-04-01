@@ -15,7 +15,8 @@ jobs:
 
       - name: Fetch and inject Stoic quote
         run: |
-          RESPONSE=$(curl -s https://stoic-quotes.com/api/quote)
+          # -L follows 307 to www; plain curl only gets "Redirecting..." (not JSON), which breaks jq
+          RESPONSE=$(curl -fsSL https://stoic-quotes.com/api/quote)
           TEXT=$(echo "$RESPONSE" | jq -r '.text')
           AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
           QUOTE_BLOCK="> \"$TEXT\" — $AUTHOR"
