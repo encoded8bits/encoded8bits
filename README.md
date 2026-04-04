@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If someone speaks badly of you, do not defend yourself against the accusations, but reply; "you obviously don't know about my other vices, otherwise you would have mentioned these as well."" — Epictetus
+> "It is better to understand the balance-sheet of one’s own life than of the corn trade." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
