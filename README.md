@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Does the emerald lose its beauty for lack of admiration?" — Marcus Aurelius
+> "There is never a time when new distraction will not show up; we sow them, so several will grow from the same seed." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
