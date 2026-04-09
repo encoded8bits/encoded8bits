@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Pain is slight if opinion has added nothing to it; ... in thinking it slight, you will make it slight. Everything depends on opinion. It is according to opinion that we suffer. A man is as wretched as he has convinced himself that he is." — Seneca
+> "Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
