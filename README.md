@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Time is a river, a violent current of events, glimpsed once and already carried past us, and another follows and is gone." — Marcus Aurelius
+> "The more a mind takes in the more it expands." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
