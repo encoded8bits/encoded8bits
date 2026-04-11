@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The more a mind takes in the more it expands." — Seneca
+> "All that remains of our existence is not actually life but merely time." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
