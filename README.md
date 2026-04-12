@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "All that remains of our existence is not actually life but merely time." — Seneca
+> "The boon that could be given can be withdrawn." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
