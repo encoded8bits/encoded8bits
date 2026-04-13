@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The boon that could be given can be withdrawn." — Seneca
+> "Everything - a horse, a vine - is created for some duty... For what task, then, were you yourself created?" — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
