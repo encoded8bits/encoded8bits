@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "All those who call you to themselves draw you away from yourself." — Seneca
+> "Not to be offended with other men's liberty of speech." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
