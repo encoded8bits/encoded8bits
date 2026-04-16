@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Not to be offended with other men's liberty of speech." — Marcus Aurelius
+> "You may fetter my leg, but Zeus himself cannot get the better of my free will." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
