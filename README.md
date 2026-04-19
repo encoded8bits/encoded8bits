@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Small-minded people blame others. Average people blame themselves. The wise see all blame as foolishness." — Epictetus
+> "There is no worse penalty for vice than the fact that it is dissatisfied with itself and all its fellows." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
