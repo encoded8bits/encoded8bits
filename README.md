@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "There is no worse penalty for vice than the fact that it is dissatisfied with itself and all its fellows." — Seneca
+> "Give me by all means the shorter and nobler life, instead of one that is longer but of less account!" — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
