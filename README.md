@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Give me by all means the shorter and nobler life, instead of one that is longer but of less account!" — Epictetus
+> "They lose the day in expectation of the night, and the night in fear of the dawn." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
