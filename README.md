@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Don't seek to have events happen as you wish, but wish them to happen as they do happen, and all will be well with you." — Epictetus
+> "People who labor all their lives but have no purpose to direct every thought and impulse toward are wasting their time—even when hard at work." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
