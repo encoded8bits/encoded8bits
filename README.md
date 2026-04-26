@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People who labor all their lives but have no purpose to direct every thought and impulse toward are wasting their time—even when hard at work." — Marcus Aurelius
+> "The man who looks for the morrow without worrying over it knows a peaceful independence and a happiness beyond all others. Whoever has said, "I have lived" receives a windfall every day he gets up in the morning." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
