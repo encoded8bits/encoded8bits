@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The man who looks for the morrow without worrying over it knows a peaceful independence and a happiness beyond all others. Whoever has said, "I have lived" receives a windfall every day he gets up in the morning." — Seneca
+> "You live as if you will live forever, no care for your mortality ever enters your head, you pay no mind to how much time has already gone by." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
