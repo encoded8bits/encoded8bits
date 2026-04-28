@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "You live as if you will live forever, no care for your mortality ever enters your head, you pay no mind to how much time has already gone by." — Seneca
+> "People are ready to acknowledge some of their faults, but will admit to others only with reluctance." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
