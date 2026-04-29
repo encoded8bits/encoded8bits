@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People are ready to acknowledge some of their faults, but will admit to others only with reluctance." — Epictetus
+> "Tranquillity is nothing else than the good ordering of the mind." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
