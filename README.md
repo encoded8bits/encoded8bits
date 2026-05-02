@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Fortify yourself with contentment for this is an impregnable fortress." — Epictetus
+> "If wisdom were offered me on the one condition that I should keep it shut away and not divulge it to anyone, I should reject it. There is no enjoying the possession of anything valuable unless one has someone to share it with." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
