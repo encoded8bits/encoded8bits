@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is only this present, a moment of time, that a man lives: all the rest either has been lived or may never be." — Marcus Aurelius
+> "Don't live by your own rules, but in harmony with nature." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
