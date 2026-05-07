@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "For many men, the acquisition of wealth does not end their troubles, it only changes them." — Seneca
+> "If you want to improve, you must be content to be thought foolish and stupid." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
