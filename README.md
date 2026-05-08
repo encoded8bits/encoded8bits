@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If you want to improve, you must be content to be thought foolish and stupid." — Epictetus
+> "A pleasure that is ephemeral brings no true satisfaction to any man. How miserable must be the lives of those folk who labor so hard for something that once gained they must work even harder to keep." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
