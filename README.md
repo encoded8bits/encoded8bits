@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "A pleasure that is ephemeral brings no true satisfaction to any man. How miserable must be the lives of those folk who labor so hard for something that once gained they must work even harder to keep." — Seneca
+> "But first consider how much more sparing and patient of hardship the poor are than we." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
