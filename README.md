@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "But first consider how much more sparing and patient of hardship the poor are than we." — Epictetus
+> "Is an emerald suddenly flawed if no one admires it?" — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
