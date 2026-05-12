@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "But he who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow." — Seneca
+> "Everything which belongs to the body is a stream, and what belongs to the soul is a dream." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
