@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Everything which belongs to the body is a stream, and what belongs to the soul is a dream." — Marcus Aurelius
+> "The liberal arts do not conduct the soul all the way to virtue, but merely set it going in that direction." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
