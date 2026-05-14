@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The liberal arts do not conduct the soul all the way to virtue, but merely set it going in that direction." — Seneca
+> "Those who lack self-control lead disturbed and tumultuous lives; their crimes are balanced by their fears, and they are never at ease." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
