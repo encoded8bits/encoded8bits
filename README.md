@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "I wish Lucilius you had been so happy as to have taken this resolution long ago I wish we had not deferred to think of an happy life till now we are come within light of death But let us delay no longer." — Seneca
+> "Give up your thirst for books so that you do not die a grouch." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
