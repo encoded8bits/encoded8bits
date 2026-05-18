@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "And to have learned how to accept favors from friends without losing your self-respect or appearing ungrateful." — Marcus Aurelius
+> "Try to enjoy the great festival of life with other men." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
