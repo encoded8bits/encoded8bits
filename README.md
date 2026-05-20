@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well." — Epictetus
+> "What good does it do you to go overseas, to move from city to city? If you really want to escape the things that harass you, what you’re needing is not to be in a different place but to be a different person." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
