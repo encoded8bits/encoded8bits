@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "What good does it do you to go overseas, to move from city to city? If you really want to escape the things that harass you, what you’re needing is not to be in a different place but to be a different person." — Seneca
+> "The man who tries to find out what has been said against him, who seeks to unearth spiteful gossip, even when engaged in privately, is destroying his own peace of mind." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
