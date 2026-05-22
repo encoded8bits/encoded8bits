@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The man who tries to find out what has been said against him, who seeks to unearth spiteful gossip, even when engaged in privately, is destroying his own peace of mind." — Seneca
+> "It is in no man's power to have whatever he wants, but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
