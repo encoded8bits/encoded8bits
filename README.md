@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is in no man's power to have whatever he wants, but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way." — Seneca
+> "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
