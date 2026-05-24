@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy." — Seneca
+> "Do the things external which fall upon thee distract thee? Give thyself time to learn something new and good, and cease to be whirled around." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
