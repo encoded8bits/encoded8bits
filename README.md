@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Do the things external which fall upon thee distract thee? Give thyself time to learn something new and good, and cease to be whirled around." — Marcus Aurelius
+> "When it allows its action and impulse to be without a purpose, to be random and disconnected: even the smallest things ought to be directed toward a goal." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
