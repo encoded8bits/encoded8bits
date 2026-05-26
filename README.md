@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "When it allows its action and impulse to be without a purpose, to be random and disconnected: even the smallest things ought to be directed toward a goal." — Marcus Aurelius
+> "How silly then to imagine that the human mind, which is formed of the same elements as divine beings, objects to movement and change of abode, while the divine nature finds delight and even self-preservation in continual and very rapid change." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
