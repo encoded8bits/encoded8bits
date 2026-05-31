@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "There are a few men whom slavery holds fast, but there are many more who hold fast to slavery." — Seneca
+> "It is not so much what happens to you as how you think about what happens." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
