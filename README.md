@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is not so much what happens to you as how you think about what happens." — Epictetus
+> "Ambition means tying your well-being to what other people say or do. Self-indulgence means tying it to the things that happen to you. Sanity means tying it to your own actions." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
