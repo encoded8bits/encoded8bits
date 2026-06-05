@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is crazy to want what is impossible. And impossible for the wicked not to do so." — Marcus Aurelius
+> "If a person gave your body to any stranger he met on his way, you would certainly be angry. And do you feel no shame in handing over your own mind to be confused and mystified by anyone who happens to verbally attack you?" — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
