@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If a person gave your body to any stranger he met on his way, you would certainly be angry. And do you feel no shame in handing over your own mind to be confused and mystified by anyone who happens to verbally attack you?" — Epictetus
+> "Do the one thing that can render you really happy: cast aside and trample under foot all the things that glitter outwardly and are held out to you a by another or as obtainable from another." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
