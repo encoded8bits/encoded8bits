@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Do the one thing that can render you really happy: cast aside and trample under foot all the things that glitter outwardly and are held out to you a by another or as obtainable from another." — Seneca
+> "On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
