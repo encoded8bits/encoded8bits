@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "To undertake nothing: i. at random or without a purpose; ii. for any reason but the common good." — Marcus Aurelius
+> "It is impossible to begin to learn that which one thinks one already knows." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
