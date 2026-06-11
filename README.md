@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "You'd have a better chance persuading someone to change their sexual orientation than reaching people who have rendered themselves so deaf and blind." — Epictetus
+> "Here is a rule to remember in future, when anything tempts you to feel bitter: not "This is misfortune," but "To bear this worthily is good fortune."" — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
