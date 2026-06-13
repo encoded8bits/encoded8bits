@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The past is ours, and there is nothing more secure for us than that which has been. We are ungrateful for past gains, because we hope for the future, as if the future – if so be that any future is ours – will not be quickly blended with the past." — Seneca
+> "We perish because we follow other men's examples: we should be cured of this if we were to disengage ourselves from the herd." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
