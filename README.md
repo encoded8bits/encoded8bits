@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "What is not good for the hive is no good for the bee." — Marcus Aurelius
+> "Freedom is not achieved by satisfying desire, but by eliminating it." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
