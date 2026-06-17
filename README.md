@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Freedom is not achieved by satisfying desire, but by eliminating it." — Epictetus
+> "If you’re honest and straightforward and mean well, it should show in your eyes. It should be unmistakable." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
