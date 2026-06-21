@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "My mind. What is it? What am I making of it? What am I using it for? Is it empty of thought? Isolated and torn loose from those around it? Melted into flesh and blended with it, so that it shares its urges?" — Marcus Aurelius
+> "Lucky is the man who dies at work." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
