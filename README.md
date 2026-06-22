@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Lucky is the man who dies at work." — Epictetus
+> "The fool, with all his other faults, has this also, he is always getting ready to live." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
