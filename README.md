@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The fool, with all his other faults, has this also, he is always getting ready to live." — Seneca
+> "From this state also will he flee. If I should attempt to enumerate them one by one, I should not find a single one which could tolerate the wise man or which the wise man could tolerate." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
