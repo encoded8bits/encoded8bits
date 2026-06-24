@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "From this state also will he flee. If I should attempt to enumerate them one by one, I should not find a single one which could tolerate the wise man or which the wise man could tolerate." — Seneca
+> "Yes, you can—if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
