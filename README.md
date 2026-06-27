@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Whatever time you choose is the right time. Not late, not early." — Marcus Aurelius
+> "If what you have seems insufficient to you, then though you possess the world, you will yet be miserable." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
