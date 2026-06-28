@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If what you have seems insufficient to you, then though you possess the world, you will yet be miserable." — Seneca
+> "Let nothing be done rashly, and at random, but all things according to the most exact and perfect rules of art." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
