@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Let nothing be done rashly, and at random, but all things according to the most exact and perfect rules of art." — Marcus Aurelius
+> "You could leave life right now. Let that determine what you do and say and think." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
