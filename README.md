@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Think of the universal substance, of which thou has a very small portion; and of universal time, of which a short and indivisible interval has been assigned to thee; and of that which is fixed by destiny, and how small a part of it thou art." — Marcus Aurelius
+> "“I am richer than you, therefore my property is greater than yours;” “I am more eloquent than you, therefore my style is better than yours.” But you, after all, are neither property nor style." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
