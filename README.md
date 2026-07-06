@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "“I am richer than you, therefore my property is greater than yours;” “I am more eloquent than you, therefore my style is better than yours.” But you, after all, are neither property nor style." — Epictetus
+> "There is but one way to tranquility of mind and happiness, and that is to account no external things thine own, but to commit all to God." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
