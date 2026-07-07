@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "There is but one way to tranquility of mind and happiness, and that is to account no external things thine own, but to commit all to God." — Epictetus
+> "A little flesh, a little breath, and a Reason to rule all – that is myself." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
