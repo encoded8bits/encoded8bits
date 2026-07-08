@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "A little flesh, a little breath, and a Reason to rule all – that is myself." — Marcus Aurelius
+> "Therefore it is better to conquer our grief than to deceive it. For if it has withdrawn, being merely beguiled by pleasures and preoccupations, it starts up again and from its very respite gains force to savage us." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
