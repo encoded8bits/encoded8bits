@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Therefore it is better to conquer our grief than to deceive it. For if it has withdrawn, being merely beguiled by pleasures and preoccupations, it starts up again and from its very respite gains force to savage us." — Seneca
+> "How good it is, when you have roast meat or suchlike foods before you, to impress on your mind that this is the dead body of a fish, this the dead body of a bird or pig." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
