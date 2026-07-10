@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "How good it is, when you have roast meat or suchlike foods before you, to impress on your mind that this is the dead body of a fish, this the dead body of a bird or pig." — Marcus Aurelius
+> "Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
