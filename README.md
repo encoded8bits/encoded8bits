@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been." — Marcus Aurelius
+> "Life is slavery if the courage to die is absent." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
