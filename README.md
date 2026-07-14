@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Don’t look at things the way wrong-doers do. Don’t look at things as wrong-doers want you too, either. Instead, strive to see things in truth, as they really are." — Marcus Aurelius
+> "If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
