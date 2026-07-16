@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Desultory reading is delightful, but to be beneficial, our reading must be carefully directed." — Seneca
+> "If you want to improve, be content to be thought foolish and stupid." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
