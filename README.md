@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Do not act as if you had ten thousand years to live ... while you have life in you, while you still can, make yourself good." — Marcus Aurelius
+> ""What progress, you ask, have I made? I have begun to be a friend to myself." That was indeed a great benefit; such a person can never be alone. You may be sure that such a man is a friend to all mankind." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
