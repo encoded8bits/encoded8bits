@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> ""What progress, you ask, have I made? I have begun to be a friend to myself." That was indeed a great benefit; such a person can never be alone. You may be sure that such a man is a friend to all mankind." — Seneca
+> "I shall expose and reopen all the wounds which have already healed." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
