@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If a great man falls and remains great as he lies, people no more despise him than they stamp on a fallen temple, which the devout still worship as much as when it was standing." — Seneca
+> "Not to assume it’s impossible because you find it hard. But to recognize that if it’s humanly possible, you can do it too." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
