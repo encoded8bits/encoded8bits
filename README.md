@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Things?—I was once a fortunate man, but I lost it, I know not how.—But fortunate means that a man has assigned to himself a good fortune: and a good fortune is good disposition of the soul, good emotions, good actions." — Marcus Aurelius
+> "Be careful to leave your sons and daughters well instructed rather than rich, for the hopes of the instructed are better than the wealth of the ignorant." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
