@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Be careful to leave your sons well instructed rather than rich, for the hopes of the instructed are better than the wealth of the ignorant." — Epictetus
+> "While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
