@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Remember that you are an actor in a drama, of such a kind as the author pleases to make it. If short, of a short one; if long, of a long one." — Epictetus
+> "Only the educated are free." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
