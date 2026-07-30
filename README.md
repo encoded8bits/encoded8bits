@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "We shall be rich with all the more comfort, if we once learn how far poverty is from being a burden." — Seneca
+> "There is no shame in making an honest effort." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
