@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Remember: philosophy requires only what your nature already demands." — Marcus Aurelius
+> "Every individual can make himself happy. External goods are of trivial importance and without much influence in either direction: prosperity does not elevate the sage and adversity does not depress him." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
