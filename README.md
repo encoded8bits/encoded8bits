@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Every circumstance comes with two handles, which one of which you can hold it, while with the other conditions are insupportable." — Epictetus
+> "Luck is what happens when preparation meets opportunity!" — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
