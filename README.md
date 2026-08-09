@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Live out your life in truth and justice, tolerant of those who are neither true nor just." — Marcus Aurelius
+> "We always feel anger longer than we feel hurt." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
