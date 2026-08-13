@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If a man has reported to you, that a certain person speaks ill of you, do not make any defense to what has been told you: but reply, The man did not know the rest of my faults, for he would not have mentioned these only." — Epictetus
+> "Desultory reading is delightful, but to be beneficial, our reading must be carefully directed." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
