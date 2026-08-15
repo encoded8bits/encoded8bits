@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "For if we had any sense, what else should we do, both in public and in private, than sing hymns and praise the deity, and recount all the favours that he has conferred!" — Epictetus
+> "Freedom is secured not by the fulfilling of men's desires, but by the removal of desire." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
