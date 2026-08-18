@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If you want to improve, be content to be thought foolish and stupid with regard to external things. Don't wish to be thought to know anything; and even if you appear to be somebody important to others, distrust yourself." — Epictetus
+> "You have power over your mind - not outside events. Realize this, and you will find strength. When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
