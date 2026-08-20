@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "To conclude, always observe how ephemeral and worthless human things are, and what was yesterday a little mucus tomorrow will be a mummy or ashes." — Marcus Aurelius
+> "The best kind of revenge is not to become like them." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
