@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The best kind of revenge is not to become like them." — Marcus Aurelius
+> "If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
