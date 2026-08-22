@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort." — Epictetus
+> "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: 'Is this the condition that I feared?" — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
