@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Philosophy is good advice; and no one can give advice at the top of his lungs." — Seneca
+> "He who loves fame considers another man’s activity to be his own good; and he who loves pleasure, his own sensations; but he who has understanding, considers his own acts to be his own good." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
