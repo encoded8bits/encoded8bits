@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "He who loves fame considers another man’s activity to be his own good; and he who loves pleasure, his own sensations; but he who has understanding, considers his own acts to be his own good." — Marcus Aurelius
+> "Whatever happens to every man, this is for the interest of the universal." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
