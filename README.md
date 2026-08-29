@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is in your own power to maintain the beauty of your soul, or to be a decent human being." — Marcus Aurelius
+> "Nature hath given men one tongue but two ears, that we may hear from others twice as much as we speak." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
