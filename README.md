@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Nature hath given men one tongue but two ears, that we may hear from others twice as much as we speak." — Epictetus
+> "Use thyself even unto those things that thou doest at first despair of. For the left hand we see, which for the most part hieth idle because not used; yet doth it hold the bridle with more strength than the right, because it hath been used unto it." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
