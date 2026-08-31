@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Use thyself even unto those things that thou doest at first despair of. For the left hand we see, which for the most part hieth idle because not used; yet doth it hold the bridle with more strength than the right, because it hath been used unto it." — Marcus Aurelius
+> "Love the discipline you know, and let it support you." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
