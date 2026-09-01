@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Love the discipline you know, and let it support you." — Marcus Aurelius
+> "The world is nothing but change. Our life is only perception." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
