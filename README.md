@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "You act like mortals in all that you fear, and like immortals in all that you desire." — Seneca
+> "And there’s no state of slavery more disgraceful than one which is self-imposed." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
