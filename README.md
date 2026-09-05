@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "An uninstructed person will lay the fault of his own bad condition upon others. Someone just starting instruction will lay the fault on himself. Some who is perfectly instructed will place blame neither on others nor on himself." — Epictetus
+> "No genius that ever won acclaim did so without a measure of indulgence. Name me any man you like who had a celebrated reputation, and I’ll tell you what the age he lived in forgave him, what it turned a blind eye to in his work." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
