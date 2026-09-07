@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "How many of them who came into the world at the same time when I did, are already gone out of it? LII." — Marcus Aurelius
+> "The day which we fear is our last is but the birthday of eternity." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
