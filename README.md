@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The day which we fear is our last is but the birthday of eternity." — Seneca
+> "A city is not adorned by external things, but by the virtue of those who dwell in it." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
