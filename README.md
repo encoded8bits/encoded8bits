@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "A city is not adorned by external things, but by the virtue of those who dwell in it." — Epictetus
+> "No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
