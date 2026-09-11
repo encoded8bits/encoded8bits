@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If any one trusted your body to the first man he met, you would be indignant, but yet you trust your mind to the chance comer, and allow it to be disturbed and confounded if he revile you; are you not ashamed to do so?" — Epictetus
+> "Some things are hurrying into existence, and others are hurrying out of it." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
