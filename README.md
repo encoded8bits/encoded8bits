@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Of my grandfather Verus I have learned to be gentle and meek, and to refrain from all anger and passion." — Marcus Aurelius
+> "For that love is greater which wins less through equal danger." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
