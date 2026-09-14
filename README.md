@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "For that love is greater which wins less through equal danger." — Seneca
+> "Nūllum magnum ingenium sine mixtūrā dēmentiae fuit No great talent without an element of madness." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
