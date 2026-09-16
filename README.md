@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Every man is worth just so much as the things are worth about which he busies himself." — Marcus Aurelius
+> "And so accept everything that happens, even if it is disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
