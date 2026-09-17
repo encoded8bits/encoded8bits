@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "And so accept everything that happens, even if it is disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus." — Marcus Aurelius
+> "No one willingly reverts to the past unless all his actions have passed his own censorship, which is never deceived." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
