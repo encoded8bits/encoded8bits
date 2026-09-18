@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "No one willingly reverts to the past unless all his actions have passed his own censorship, which is never deceived." — Seneca
+> "Things: and the vanity of praise, and the inconstancy." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
