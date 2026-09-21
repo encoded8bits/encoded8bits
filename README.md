@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Therefore, my dear Lucilius, begin at once to live, and count each separate day as a separate life. He who has thus prepared himself, he whose daily life has been a rounded whole, is easy in his mind." — Seneca
+> "That which is not good for the bee-hive, cannot be good for the bee." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
