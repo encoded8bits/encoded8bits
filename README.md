@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The busy man remains rooted to the ground, ever stuck in the present, a time so brief that it cannot be grasped, and thus it is stolen from him, busy as he is with so many things." — Seneca
+> "The amount of life we truly live is small. For our existence on Earth is not Life, but merely Time." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
