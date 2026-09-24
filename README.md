@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The amount of life we truly live is small. For our existence on Earth is not Life, but merely Time." — Seneca
+> "We should often withdraw into ourselves; for mixing with persons of dissimilar natures throws into disorder our settled composure and wakens our passions anew, exacerbating whatever is weak in the mind and not properly healed." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
