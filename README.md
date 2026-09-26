@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Today I escaped all circumstance, or rather I cast out all circumstance, for it was not outside me, but within my judgements." — Marcus Aurelius
+> "No past life has been lived to lend us glory, and that which has existed before us is not ours." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
