@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "No past life has been lived to lend us glory, and that which has existed before us is not ours." — Seneca
+> "Life’s like a play. It’s not the length but the excellence of the acting that matters." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
