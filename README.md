@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Our universe is a sorry little affair unless it has in it something for every age to investigate." — Seneca
+> "Do you have reason? I have. Why then do you not use it? For if reason does its own work, what else could you wish for?" — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
