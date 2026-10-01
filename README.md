@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Do you have reason? I have. Why then do you not use it? For if reason does its own work, what else could you wish for?" — Marcus Aurelius
+> "Goodness exists independently of our conception of it. The good is out there and it always has been out there, even before we began to exist." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
