@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Goodness exists independently of our conception of it. The good is out there and it always has been out there, even before we began to exist." — Epictetus
+> "We do not receive a life that is short, but rather we make it so; we are not beggar in it, but spendthrifts." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
