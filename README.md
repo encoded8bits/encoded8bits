@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "And thou wilt give thyself relief, if thou doest every act of thy life as if it were the last." — Marcus Aurelius
+> "Theseus: What is the crime for which you must pay by death? Phaedra: My life." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
