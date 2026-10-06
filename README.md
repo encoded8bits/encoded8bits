@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "We should often withdraw into ourselves; for mixing with persons of dissimilar natures throws into disorder our settled composure and wakens our passions anew, exacerbating whatever is weak in the mind and not properly healed." — Seneca
+> "The mind is that which is roused and directed by itself. It makes of itself what it chooses. It makes what it chooses of its own experience." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
