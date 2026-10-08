@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Finally, it is generally agreed that no activity can be successfully pursued by an individual who is preoccupied." — Seneca
+> "Everyone hustles his life along, and is troubled by a longing for the future and weariness of the present." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
