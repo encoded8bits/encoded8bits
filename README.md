@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily?" — Seneca
+> "We are mistaken when we look forward to death; the major portion of death has already passed, Whatever years be behind us are in death's hands." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
