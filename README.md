@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "We are mistaken when we look forward to death; the major portion of death has already passed, Whatever years be behind us are in death's hands." — Seneca
+> "A multitude of books only gets in one's way. So if you are unable to read all the books in your possession, you have enough when you have all the books you are able to read." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
