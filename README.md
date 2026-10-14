@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People out for posthumous fame forget that the Generations To Come will be the same annoying people they know now." — Marcus Aurelius
+> "The first thing which philosophy undertakes to give is fellow-feeling with all men; in other words, sympathy and sociability." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
