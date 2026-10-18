@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Because thou writest me often, I thank thee. Never do I receive a letter from thee, but immediately we are together." — Seneca
+> "A person's fears are lighter when the danger is at hand." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
