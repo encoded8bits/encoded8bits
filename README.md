@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "A person's fears are lighter when the danger is at hand." — Seneca
+> "Nothing great comes into being all at once, for that is not the case even with a bunch of grapes or a fig. If you tell me now, ‘I want a fig,’ I’ll reply, ‘That takes time." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
