@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "So the man who restrains himself within the bounds set by nature will not notice poverty; the man who exceeds these bounds will be pursued by poverty however rich he." — Seneca
+> "You have all the fears of mortals and all the desires of immortals." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
