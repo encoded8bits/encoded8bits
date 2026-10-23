@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "You have all the fears of mortals and all the desires of immortals." — Seneca
+> "And what is more wretched than a man who forgets his benefits and clings to his injuries?" — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
