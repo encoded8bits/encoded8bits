@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Of all men, only those who find time for philosophy are at leisure; only they are truly alive; for it is not only their own lifetime they guard well: they add every age to their own." — Seneca
+> "We suffer not from the events in our lives but from our judgement about them." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
