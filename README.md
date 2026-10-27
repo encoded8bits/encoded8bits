@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "We suffer not from the events in our lives but from our judgement about them." — Epictetus
+> "It is wrong not to stretch out your hand to the fallen: that is a common law of the human race." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
