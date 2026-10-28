@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "It is wrong not to stretch out your hand to the fallen: that is a common law of the human race." — Seneca
+> "The philosopher's school, ye men, is a surgery: you ought not to go out of it with pleasure, but with pain. For you are not in sound health when you enter." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
