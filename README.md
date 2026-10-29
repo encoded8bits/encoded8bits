@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The philosopher's school, ye men, is a surgery: you ought not to go out of it with pleasure, but with pain. For you are not in sound health when you enter." — Epictetus
+> "As is a tale, so is life: not how long it is, but how good it is, is what matters." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
