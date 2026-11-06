@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "I do not regard a man as poor, if the little which remains is enough for him." — Seneca
+> "The world is mere change, and this life, opinion." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
