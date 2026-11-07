@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "The world is mere change, and this life, opinion." — Marcus Aurelius
+> "What are we to do, then? To make the best of what lies within our power, and deal with everything else as it comes. ‘How does it come, then?’ As God wills." — Epictetus
 <!-- STOIC_QUOTE_END -->
 ---
 
