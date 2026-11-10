@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People who are excited by posthumous fame forget that the people who remember them will soon die too. And those after them in turn. Until their memory, passed from one to another like a candle flame, gutters and goes out." — Marcus Aurelius
+> "Nothing is more scandalous than a man that is proud of his humility." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
