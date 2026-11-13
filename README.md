@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Remember, however, that you are formed by nature to bear everything whose tolerability depends on your own opinion to make it so, by thinking that it is in your interest or duty to do so." — Marcus Aurelius
+> "He who saw that everything depended on himself alone, who decided the fortune of individuals and nations, was happiest when thinking of that day on which he would lay aside his own greatness." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
