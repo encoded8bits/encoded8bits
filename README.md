@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "We are members of one great body, planted by nature…. We must consider that we were born for the good of the whole." — Seneca
+> "How many together with whom I came into the world are already gone out of it." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
