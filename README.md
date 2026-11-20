@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "People find particular things, however, frightening; and it's when someone is able to threaten or entice us with those that the man himself becomes frightening." — Epictetus
+> "If you live according to nature, you will never be poor; if you live according to opinion, you will never be rich." — Seneca
 <!-- STOIC_QUOTE_END -->
 ---
 
