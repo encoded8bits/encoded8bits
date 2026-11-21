@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "If you live according to nature, you will never be poor; if you live according to opinion, you will never be rich." — Seneca
+> "Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
