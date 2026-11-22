@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded." — Marcus Aurelius
+> "The memory of everything is very soon overwhelmed in time." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
