@@ -36,7 +36,7 @@ I’m currently focused on continuous professional growth, technical mastery, an
 ### 🏛️ Stoic Wisdom
 *"Control your perceptions. Direct your actions rightly. Willingly accept what's outside your control." — Marcus Aurelius*
 <!-- STOIC_QUOTE_START -->
-> "But consider whether you may not get more help from the customary method than from that which is now commonly called a "breviary," though in the good old days, when real Latin was spoken, it was called a "summary"." — Seneca
+> "Because your own strength is unequal to the task, do not assume that it is beyond the powers of man; but if anything is within the powers and province of man, believe that it is within your own compass also.  Marcus Aurelius." — Marcus Aurelius
 <!-- STOIC_QUOTE_END -->
 ---
 
